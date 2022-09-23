@@ -3,7 +3,8 @@ This repo is the last challenge to complete dio's batabase experience bootcamp;
 
 ## Database fundamentals:
 
-    * SQL - Structured Query Language
+    * SQL - Structured Query Language (Concepts)
+    * NOSQL - Not Only SQL (Concepts)
     * Normalisation [general recommendation]
     * ACID transactions
     * CAP theorem
